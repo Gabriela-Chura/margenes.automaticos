@@ -1,0 +1,47 @@
+/* Escribe aqui tu CSS */
+
+.first{
+    border: 20px solid yellow;
+    width: 200px;
+    margin-bottom:10px;
+    margin-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: block;
+ 
+}
+
+.second{
+    border: 20px solid yellow;
+    width: 200px;
+    margin: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: block;
+ 
+    
+    
+}
+
+
+#uno{
+    
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-top:  30px;
+    font-size: 12px;
+}
+
+#dos{
+    
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-top:  30px;
+    font-size: 12px;
+    
+   
+}
